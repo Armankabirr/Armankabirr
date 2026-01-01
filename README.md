@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi there 👋
+I'm Arman, a BS CSE Student at United International University (UIU).
+Passionate about software development, problem solving, and learning new technologies.
 
-<!--
-**Armankabirr/Armankabirr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills & Technologies
+- **Languages:** C, C++, Java, Python, JavaScript, TypeScript  
+- **Frontend:** React, Tailwind CSS, HTML, CSS  
+- **Backend & DB:** MySQL  
+- **Tools:** Git, GitHub, VS Code  
+- **Concepts:** OOP, DSA, DBMS, Software Engineering
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Exploring
+- Full-stack development  
+- Advanced React patterns  
+- Type-safe applications with TypeScript
