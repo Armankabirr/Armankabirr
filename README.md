@@ -5,9 +5,9 @@
 
 
 ## 🚀 About Me
-- Passionate about building clean, user-friendly web applications  
-- Understanding of frontend development and UI/UX principles  
-- Familiar with agile project management tools and workflows  
+- Full-stack developer passionate about building clean, user-friendly web applications
+- Comfortable across both frontend and backend, with a strong eye for UI/UX
+- Familiar with agile project management tools and workflows
 - Enjoy working on academic and team-based projects
 
 <h3 align="left">Languages and Tools:</h3>
@@ -57,10 +57,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
 </div>
 
-###
 ## 🌱 Currently Exploring
-- Full-stack development  
-- Advanced React patterns  
+- Advanced React patterns
 - Type-safe applications with TypeScript
 
 📫 **GitHub:** https://github.com/Armankabirr
