@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Arman Kabir</h1>
-<h3 align="center">Full-Stack Developer • CSE Student • AI Enthusiast</h3>
+<h3 align="center">
+Software Engineering Student
+</h3>
+
+<p align="center">
+Final Trimester B.Sc. in Computer Science & Engineering <br>
+United International University (UIU), Bangladesh
+</p>
 
 <table>
 <tr>
