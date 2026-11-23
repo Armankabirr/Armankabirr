@@ -51,6 +51,6 @@ United International University (UIU), Bangladesh
 
 ## 📫 Connect
 
-- 📧 Email: armanutsho12@example.com
+- 📧 Email: armanutsho12@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/armankabiir
 - 💻 GitHub: https://github.com/Armankabirr
