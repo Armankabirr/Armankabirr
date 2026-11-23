@@ -38,29 +38,21 @@ Passionate about building scalable web applications, exploring AI technologies, 
 ## 🛠 Tech Stack
 
 ### Languages
-
 <p>
 <img src="https://skillicons.dev/icons?i=js,ts,java,python,c,cpp" />
 </p>
-
 ### Frontend
-
 <p>
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
 </p>
-
 ### Backend
-
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
-
 ### Tools
-
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,jira,arduino" />
 </p>
-
 ---
 
 ## 🌱 Currently Learning
@@ -70,16 +62,6 @@ Passionate about building scalable web applications, exploring AI technologies, 
 - System Design
 - Cloud Deployment
 - DevOps Fundamentals
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Armankabirr&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
