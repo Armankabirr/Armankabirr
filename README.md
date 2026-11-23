@@ -1,69 +1,160 @@
-<h1 align="center">Hi 👋, I'm Arman</h1>
-<h3 align="center">BSCSE Student at United International University (UIU).</h3>
-<h5 align="center">Passionate about software development, problem solving, and learning new technologies.</h5>
+<h1 align="center">Hi 👋, I'm Arman Kabir</h1>
 
+<h3 align="center">
+Full-Stack Developer • Software Engineering Student • AI Enthusiast
+</h3>
 
+<p align="center">
+Final Trimester B.Sc. in Computer Science & Engineering <br>
+United International University (UIU), Bangladesh
+</p>
+
+<p align="center">
+Passionate about building scalable web applications, exploring AI technologies, and solving real-world problems through software.
+</p>
+
+---
 
 ## 🚀 About Me
-- Full-stack developer passionate about building clean, user-friendly web applications
-- Comfortable across both frontend and backend, with a strong eye for UI/UX
-- Familiar with agile project management tools and workflows
-- Enjoy working on academic and team-based projects
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-</div>
+- 🎓 Final Trimester CSE Student at **United International University (UIU)**
+- 💻 Full-Stack Developer specializing in the **MERN Stack**
+- ⚛️ Building modern web applications with **React, TypeScript & Node.js**
+- 🤖 Exploring **AI, LLMs, Automation & Intelligent Software Systems**
+- 🌐 Interested in **Software Engineering, Networking & IoT**
+- 🤝 Love collaborating on team projects using Agile workflows
+- 📚 Always learning new technologies and best development practices
 
-## 🌱 Currently Exploring
-- Advanced React patterns
-- Type-safe applications with TypeScript
+---
 
-📫 **GitHub:** https://github.com/Armankabirr
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/armankabiir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="armankabiir" height="30" width="40" /></a>
-<a href="https://instagram.com/armankabiir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="armankabiir" height="30" width="40" /></a>
+## 🏆 Achievements
+
+- 🥇 **50% Merit Scholarship** — Fall 2026 (4th Consecutive Merit Scholarship)
+- 🥈 **50% Merit Scholarship**
+- 🥈 **50% Merit Scholarship**
+- 🥉 **25% Merit Scholarship**
+- 🏆 **1st Runner-up** — UIU CSE Project Show (Microprocessor & Microcontroller Project)
+- 🏅 **Top 10 Finalist** — UIU CSE Project Show (Software Engineering Project)
+- 🏅 **5th Runner-up** — Advanced Object-Oriented Programming Project
+
+---
+
+## 💼 Featured Projects
+
+### 🔹 WorkSure
+An all-in-one service provider platform built as a team project.
+
+**Tech Stack**
+
+React • TypeScript • Tailwind CSS • Node.js • Express • MongoDB • Supabase • Firebase
+
+Highlights
+
+- Authentication & Protected Routes
+- Worker Dashboard
+- Booking System
+- Responsive UI
+- Admin Panel
+
+---
+
+### 🔹 Personal Portfolio
+
+Modern responsive portfolio showcasing projects, achievements and technical skills.
+
+**Tech Stack**
+
+HTML • CSS • JavaScript • GSAP • Three.js
+
+---
+
+### 🔹 Stable & Secure Clustering Technique for Vehicular Cloud Networks
+
+Final Year Research Project focused on secure and stable clustering in VANETs.
+
+Research Areas
+
+- Vehicular Cloud Computing
+- VANET
+- Cluster Stability
+- Network Security
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,c,cpp" />
 </p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,jira,arduino" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- Artificial Intelligence & LLM Applications
+- Advanced React & TypeScript
+- System Design
+- Cloud Deployment
+- DevOps Fundamentals
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Armankabirr&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armankabirr&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Armankabirr&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/armankabiir">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://github.com/Armankabirr">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+</p>
+
+---
+
+⭐ Thanks for visiting my profile!
