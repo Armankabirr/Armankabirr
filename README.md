@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arman Kabir</h1>
 
 <h3 align="center">
-Full-Stack Developer • Software Engineering Student • AI Enthusiast
+Software Engineering Student
 </h3>
 
 <p align="center">
@@ -30,57 +30,11 @@ Passionate about building scalable web applications, exploring AI technologies, 
 ## 🏆 Achievements
 
 - 🥇 **50% Merit Scholarship** — Fall 2026 (4th Consecutive Merit Scholarship)
-- 🥈 **50% Merit Scholarship**
-- 🥈 **50% Merit Scholarship**
-- 🥉 **25% Merit Scholarship**
 - 🏆 **1st Runner-up** — UIU CSE Project Show (Microprocessor & Microcontroller Project)
 - 🏅 **Top 10 Finalist** — UIU CSE Project Show (Software Engineering Project)
 - 🏅 **5th Runner-up** — Advanced Object-Oriented Programming Project
 
 ---
-
-## 💼 Featured Projects
-
-### 🔹 WorkSure
-An all-in-one service provider platform built as a team project.
-
-**Tech Stack**
-
-React • TypeScript • Tailwind CSS • Node.js • Express • MongoDB • Supabase • Firebase
-
-Highlights
-
-- Authentication & Protected Routes
-- Worker Dashboard
-- Booking System
-- Responsive UI
-- Admin Panel
-
----
-
-### 🔹 Personal Portfolio
-
-Modern responsive portfolio showcasing projects, achievements and technical skills.
-
-**Tech Stack**
-
-HTML • CSS • JavaScript • GSAP • Three.js
-
----
-
-### 🔹 Stable & Secure Clustering Technique for Vehicular Cloud Networks
-
-Final Year Research Project focused on secure and stable clustering in VANETs.
-
-Research Areas
-
-- Vehicular Cloud Computing
-- VANET
-- Cluster Stability
-- Network Security
-
----
-
 ## 🛠 Tech Stack
 
 ### Languages
@@ -123,14 +77,6 @@ Research Areas
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Armankabirr&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armankabirr&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Armankabirr&theme=tokyonight&hide_border=true"/>
 
 </p>
@@ -149,7 +95,7 @@ Research Areas
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:armanutsho12@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
